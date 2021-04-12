@@ -4,6 +4,6 @@ camera bounded to terrain:false
 day night cycle enabled:true
 tile cuts:7
 visibility disabled:false
-units orthogonal to tiles:true
+units orthogonal to tiles:false
 flattern terrain:true
 use texture for plains:true
